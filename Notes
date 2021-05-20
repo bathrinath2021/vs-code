@@ -1,0 +1,11 @@
+Arithmetic operators :- (+,-,*,/)
+Assignment operators :- (+=,-=,*= so on...)
+Unary operators :- (>,<,==,<=,>=, so on...)
+Logical operator :- (And,Or,Not)
+BitWise operator :- (&,|,~,^,<<,>>)
+**********************************************************************************
+
+Binary = (0-1)# Bits - Binary DigiT - bin(25) = '0b1101' #0b represents its binary
+Digits = (0-9)
+Octal = (0-7)
+Hexadecimal = (0-9,a-f)#here a=10,b=11,c=12,d=13,e=14,f=15
